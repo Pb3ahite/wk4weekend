@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://zbidjjve:Z_xacCuOiyUO2DdO54VQuDRtA-w--hTA@mahmud.db.elephantsql.com/zbidjjve",
+            "name": "wk4project"
+        }
+    ]
+}
